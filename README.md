@@ -15,3 +15,5 @@ Here is a list of our current prjects.
     b. Land Based
   6.  Mining Bases (Very Limited Production)
   
+Please visit our wiki https://github.com/Gyffen1971/KSP-Vessels/wiki for info on our craft.
+I will try and update it as soon after a Vessel/Craft is released.
